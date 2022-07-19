@@ -1,6 +1,6 @@
 # Maze-project
 
-## [Description](/Data-Structure.py)
+## Description
 
 * Maze Definition: A maze is a path or collection of paths, typically from an entrance to a goal. 
 
@@ -15,7 +15,7 @@
 * Direction Priority:  Right, Left, Up, Down <br>
 * Graph Theory - Solve a Maze (vedio): [Graph Theory](https://www.youtube.com/watch?v=DDPdnywfxuM)
 
-## [Design](/Data-Structure.py)
+## Design
 
 > Key point: thinking find the path between two point in a graph.
 
@@ -25,19 +25,19 @@
 
 * Step 2: Use DFS to find the path between two position.
 
-## [Related Theory](/Data-Structure.py)
+## Related Theory
 
 * Tree     [Tree Explaination](https://www.geeksforgeeks.org/binary-tree-data-structure/?ref=gcse)
 * Graph    [Graph Explaination](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/?ref=gcse) 
 * Depth-First-Search      [DFS Explaination](https://brilliant.org/wiki/depth-first-search-dfs/#complexity-of-depth-first-search)
 * Breadth-First-Search      [BFS Explaination](https://www.youtube.com/watch?v=xlVX7dXLS64) 
 
-## [How to run project](/Data-Structure.py)
+## How to run project
 
 ```python
 Step 1: download maze-DFS.py file
 Step 2: python3 maze-DFS.py
 ```
 
-## [Detail Design Presentation](/Data-Structure.py)
+## Detail Design Presentation
 [CS501_19632_MazeProject_Ling_Chen](https://docs.google.com/presentation/d/1v43LjrhdWu0MIY3CdU9H1Uvo751W0iz4zujG_3AcO-s/edit?usp=sharing)
