@@ -25,8 +25,6 @@
 
 * Step 2: Use DFS to find the path between two position.
 
-- Step 3: Detail Design Presentation: [CS501_19632_MazeProject_Ling_Chen](https://docs.google.com/presentation/d/1v43LjrhdWu0MIY3CdU9H1Uvo751W0iz4zujG_3AcO-s/edit?usp=sharing)
-
 ## [Related Theory](/Data-Structure.py)
 
 * Tree     [Tree Explaination](https://www.geeksforgeeks.org/binary-tree-data-structure/?ref=gcse)
@@ -40,3 +38,6 @@
 Step 1: download maze-DFS.py file
 Step 2: python3 maze-DFS.py
 ```
+
+## [Detail Design Presentation](/Data-Structure.py)
+[CS501_19632_MazeProject_Ling_Chen](https://docs.google.com/presentation/d/1v43LjrhdWu0MIY3CdU9H1Uvo751W0iz4zujG_3AcO-s/edit?usp=sharing)
