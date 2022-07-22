@@ -33,7 +33,7 @@ There are four type of maze:
 
 ## Design
 
-#### [Clear Route]()
+#### [Clear Route Maze]()
 
 > Key point: thinking find the path between two point in a graph.
 
@@ -42,7 +42,7 @@ There are four type of maze:
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/93315926/179808769-9a305917-e1c9-4a9a-baad-cdb129e2a7f9.png">
 
-#### [Unclear Route]()
+#### [Unclear Route Maze]()
 
 Find a route from 0 -> 1:  <br>
 
