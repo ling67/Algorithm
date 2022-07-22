@@ -2,7 +2,7 @@
 
 ## Description
 
-#### Definition
+#### [Definition]()
 
 * A maze is a path or collection of paths, typically from an entrance to a goal. 
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/93315926/179809703-0d5fb530-163c-49a9-8e10-f05d00b8ccee.png">
