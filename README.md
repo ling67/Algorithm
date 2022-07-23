@@ -65,4 +65,4 @@ Step 2: python3 maze-DFS.py
 ```
 
 ## Detail Design Presentation
-[CS501_19632_MazeProject_Ling_Chen](https://docs.google.com/presentation/d/1v43LjrhdWu0MIY3CdU9H1Uvo751W0iz4zujG_3AcO-s/edit?usp=sharing)
+[MazeProject_Ling_Chen](https://docs.google.com/presentation/d/1v43LjrhdWu0MIY3CdU9H1Uvo751W0iz4zujG_3AcO-s/edit?usp=sharing)
