@@ -22,7 +22,7 @@ This project is an extension of Maze DFS, we use Breadth-First Traversal to solv
 
 In this case, we try to explore the search space on a level by level basis. i.e. We try to move in all the directions at every step. When all the directions have been explored and we still don't reach the destination, then only we proceed to the new set of traversals from the new positions obtained.
 
-## [Example: Unclear Route Maze]()
+## Example: Unclear Route Maze
 
 Find a route from 0 -> 1:  <br>
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/93315926/183321709-ac7c1325-16ac-4776-ad68-5bb99213153e.png">
